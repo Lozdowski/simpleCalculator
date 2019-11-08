@@ -90,7 +90,11 @@ public class Window extends JFrame {
         directWindow.add(jButton17);
 
         add(directWindow);
+
+
+
     }
+
 
 
 
